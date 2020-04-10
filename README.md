@@ -2,8 +2,8 @@
 QA system to grade students work
 
 
-EX 1 - 
---------------------------------------------------------------
+EX 1 
+
 Part 1 - create comp.c to compare between content of two files
 	system calls: open(), read(), close() (Cant use strcmp(), strncmp(), strlen())
 	comp.out a.txt b.txt
@@ -148,28 +148,7 @@ Part 2 - Check student homework
 						Yael,1
 						--------------------------
 						
-==============================================================================================================
-A detailed list of the files that you must pack into one compressed file (ZIP or RAR) and submit to the model:
-		/home/rmisegal/Homework/M1/comp.c	
-		/home/rmisegal/Homework/M1/comp.out
-		/home/rmisegal/Homework/M1/setup/config.txt
-		/home/rmisegal/Homework/M1/EX1_2.c
-		/home/rmisegal/Homework/M1/a.out
-		/home/rmisegal/Homework/M1/program_output.txt
-		/home/rmisegal/Homework/M1/results.csv
-		/home/rmisegal/Homework/M1/setup/config.txt
-		/home/rmisegal/Homework/M1/setup/test_input.qa
-		/home/rmisegal/Homework/M1/setup/expected_output.qa
-		/home/rmisegal/Homework/M1/students/David/David.c
-		/home/rmisegal/Homework/M1/students/David/main.out
-		/home/rmisegal/Homework/M1/students/Joe/Joe.c
-		/home/rmisegal/Homework/M1/students/Joe/main.out
-		/home/rmisegal/Homework/M1/students/Michael/Michael.c
-		/home/rmisegal/Homework/M1/students/Michael/main.out
-		/home/rmisegal/Homework/M1/students/Yael/Yael.c
-		/home/rmisegal/Homework/M1/students/Yael/main.out
-==============================================================================================================
-		
+
 		
 		
 		

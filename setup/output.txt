@@ -1,0 +1,6 @@
+please enter first number: 
+2
+please enter scond number: 
+3
+the sum is: 
+5 

@@ -1,0 +1,3 @@
+/home/edenshtein30/EX1/students/
+/home/edenshtein30/EX1/setup/input.txt
+/home/edenshtein30/EX1/setup/output.txt
